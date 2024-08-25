@@ -6,6 +6,7 @@ public class TestApplication_java {
 		System.out.println("Eclispe>>GIT ");
 		System.out.println("E2E Integration");
 		System.out.println("Amal Developer");
+		System.out.println("Madhu Manual");
 	}
 
 }
